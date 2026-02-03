@@ -170,7 +170,7 @@ Users are responsible for conducting their own due diligence.
   - On-chain transparency does not prevent all forms of abuse.
   - Time-based commitment is not a substitute for quality or execution.
   - Fluxur does not judge projects or creators.
-  - 
+    
 Fluxur is a tool, not an arbiter.
 
 
