@@ -155,7 +155,7 @@ Fluxur provides strong guarantees but does not eliminate all risk.
 Fluxur Guarantees
   - Time locks cannot be bypassed.
   - Locked funds cannot be withdrawn early.
-  - Lock data is publicly verifiable
+  - Lock data is publicly verifiable.
 
 Fluxur Does Not Guarantee
   - Project success
