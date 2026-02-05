@@ -52,12 +52,12 @@ Fluxur is built as infrastructure for long-term alignment in crypto ecosystems.
 
 ## Repository Structure
 
-anchor/ → Solana smart contracts (timelock program)
-src/app/api/ → API routes (create, locks, verification, etc)
-components/ → Frontend UI components
-idl/ → Anchor IDL
-lib/ → Client + utilities
-server/ → Supabase + backend logic
+- anchor/ → Solana smart contracts (timelock program)
+- src/app/api/ → API routes (create, locks, verification, etc)
+- components/ → Frontend UI components
+- idl/ → Anchor IDL
+- lib/ → Client + utilities
+- server/ → Supabase + backend logic
 
 
 ---
