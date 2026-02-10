@@ -80,7 +80,7 @@ Fluxur provides interfaces to surface this data, but verification does not rely 
 Fluxur includes a launchpad that allows creators to:
 
   - Launch new tokens with contract addresses ending in FLXR
-  - Connect previously launched tokens to Fluxur’s locking infrastructure.
+  - Connect previously launched tokens to Fluxur’s locking infrastructure
 
 The FLXR suffix serves as an on-chain identifier for tokens launched through Fluxur while remaining fully compatible with the broader Solana ecosystem.
 
