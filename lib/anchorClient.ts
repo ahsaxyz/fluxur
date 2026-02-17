@@ -17,5 +17,5 @@ export const connection = new Connection(
 
 export function getProgram(wallet: AnchorWallet) {
   const provider = new AnchorProvider(connection, wallet, { commitment: "confirmed" });
-  return new Program(idl as Idl, provider);
+  return new Program(idl as Idl, provider)
 }
