@@ -94,7 +94,7 @@ Current phase:
 ## Links
 
 Website: https://fluxur.fun  
-X: https://x.com/FluxurFun  (currently suspended — working on recovery)
+X: https://x.com/FluxurFun  (Finally unsuspended!)
 
 ---
 
