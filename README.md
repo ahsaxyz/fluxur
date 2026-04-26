@@ -9,7 +9,7 @@ Provable on-chain commitment infrastructure on Solana.
 
 # Fluxur
 
-Fluxur is a Solana-based protocol designed to make commitment provable, time-based, and publicly verifiable on-chain
+Fluxur is a Solana-based protocol designed to make commitment provable, time-based, and publicly verifiable on-chain.
 
 Instead of relying on promises, social signals, or off-chain agreements, Fluxur enables creators and developers to demonstrate long-term alignment through irreversible on-chain actions.
 
