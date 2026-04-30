@@ -1,6 +1,6 @@
 [features]
 seeds = false
-skip-lint = false
+skip-lint = fals
 
 [programs.localnet]
 fluxur_timelock = "FLXRTimeLock111111111111111111111111111111"
