@@ -7,4 +7,4 @@
 
 # Use Next.js runtime with Node, default plugin handles dynamic routes and API
 [[plugins]]
-  package = "@netlify/plugin-nextjs
+  package = "@netlify/plugin-nextjs"
