@@ -103,3 +103,6 @@ X: https://x.com/FluxurFun  (Finally unsuspended!)
 Commitment should be provable, not promised.
 
 Fluxur exists to set the standard for transparent, on-chain accountability in crypto.
+
+
+New changes coming
